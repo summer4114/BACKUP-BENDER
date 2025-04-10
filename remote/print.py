@@ -1,0 +1,3 @@
+nombre = "summer"
+
+print(nombre)
